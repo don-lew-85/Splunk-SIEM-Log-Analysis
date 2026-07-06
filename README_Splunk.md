@@ -116,7 +116,7 @@ Indexes are Splunk's data stores — logical containers that hold ingested log d
 
 A lightweight Splunk agent installed on endpoints that **collects and forwards log data** to the Splunk indexer. It consumes minimal resources and does not index data locally.
 
-![Universal Forwarder](./diagrams/universal-forwarder.svg)    
+![Universal Forwarder Data Flow](./diagrams/universal-forwarder-flow.svg)
 ```
 
 ### Critical Windows Event IDs
