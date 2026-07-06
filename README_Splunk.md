@@ -543,6 +543,7 @@ Use this checklist to confirm your lab is fully operational before adding it to 
 
 **Built as part of a cybersecurity home lab portfolio**
 
-[← Back to Lab Index](../README.md)
+[← Back to Lab Index](../README_Splunk.md)
+
 
 </div>
