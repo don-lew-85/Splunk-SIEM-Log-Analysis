@@ -1,5 +1,7 @@
 # 🔍 Splunk SIEM & Log Analysis Lab
 
+https://www.loom.com/share/3669f56d4cde4c2fbcbe3c1642cc4cfb
+
 ![Splunk](https://img.shields.io/badge/Splunk-Free-green?style=for-the-badge&logo=splunk&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-VM-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![SOC](https://img.shields.io/badge/SOC-Skills-red?style=for-the-badge&logo=shield&logoColor=white)
